@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"szTitleWeapons"
+	{
+        "en"        ">> Choose weapon :"
+        "ru"        ">> Выбор оружия :"
+	}
+	"szTitlePistols"
+	{
+		"en"		">> Choose pistol :"
+		"ru"		">> Выбор пистолета :"
+	}
+	"szTitleCommand"
+	{
+		"en"		">> Choose command :"
+		"ru"		">> Выбор команды :"
+	}
+	"szTimeout"
+	{
+		"#format"   "{1:.0f}"
+		"en"		"{RED}>>{DEFAULT} /round can be made once in {RED}{1} min."
+		"ru"		"{RED}>>{DEFAULT} /round доступен раз в {RED}{1} минут."
+	}
+	"szStart"
+	{
+		"en"		">> Custom Round started :"
+		"ru"		">> Кастомный раунд начался :"
+	}
+	"szFail"
+	{
+		"en"		"{RED}>>{DEFAULT} Vote Failed!"
+		"ru"		"{RED}>>{DEFAULT} Голосование провалилось!"
+	}
+	"sz1"
+	{
+		"#format"   "{1:i}"
+		"en"		"{GREEN}>>{DEFAULT} {1} round is {GREEN}custom!"
+		"ru"		"{GREEN}>>{DEFAULT} {1} раунд - {GREEN}кастомный!"
+	}
+	"sz2"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"		"{GREEN}>>{DEFAULT} Weapon - {GREEN}{1}{DEFAULT}, pistol - {GREEN}{2}"
+		"ru"		"{GREEN}>>{DEFAULT} Оружие - {GREEN}{1}{DEFAULT}, пистолет - {GREEN}{2}"
+	}
+	"sz3"
+	{
+		"#format"   "{1:s}"
+		"en"		"{GREEN}>>{DEFAULT} Command - {GREEN}{1}"
+		"ru"		"{GREEN}>>{DEFAULT} Команда - {GREEN}{1}"
+	}
+}
